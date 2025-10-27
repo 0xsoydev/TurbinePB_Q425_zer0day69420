@@ -1,0 +1,1 @@
+/home/zer0day/Projects/turbin3/TurbinePB_Q425_zer0day69420/Adv\ Task\ 01/rust_counter/target/debug/rust_counter: /home/zer0day/Projects/turbin3/TurbinePB_Q425_zer0day69420/Adv\ Task\ 01/rust_counter/src/main.rs
