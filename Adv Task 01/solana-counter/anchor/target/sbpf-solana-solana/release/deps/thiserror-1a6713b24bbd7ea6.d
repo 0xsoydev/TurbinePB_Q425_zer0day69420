@@ -1,0 +1,10 @@
+/home/zer0day/Projects/turbin3/TurbinePB_Q425_zer0day69420/Adv Task 01/solana-counter/anchor/target/sbpf-solana-solana/release/deps/libthiserror-1a6713b24bbd7ea6.rmeta: /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/zer0day/Projects/turbin3/TurbinePB_Q425_zer0day69420/Adv Task 01/solana-counter/anchor/target/sbpf-solana-solana/release/deps/libthiserror-1a6713b24bbd7ea6.rlib: /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/zer0day/Projects/turbin3/TurbinePB_Q425_zer0day69420/Adv Task 01/solana-counter/anchor/target/sbpf-solana-solana/release/deps/thiserror-1a6713b24bbd7ea6.d: /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/home/zer0day/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:
