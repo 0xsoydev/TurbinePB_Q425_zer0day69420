@@ -10,3 +10,6 @@
 [submodule "nftPlex-nft-mint"]
 	path = nftPlex-nft-mint
 	url = git@github.com:0xsoydev/nftPlex.git
+[submodule "rust-book"]
+	path = rust-book
+	url = git@github.com:0xsoydev/rust-book.git
