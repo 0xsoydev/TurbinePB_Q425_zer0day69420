@@ -7,3 +7,6 @@
 [submodule "anchor-escrow-contract"]
 	path = anchor-escrow-contract
 	url = git@github.com:0xsoydev/anchor-escrow-contract.git
+[submodule "nftPlex-nft-mint"]
+	path = nftPlex-nft-mint
+	url = git@github.com:0xsoydev/nftPlex.git
