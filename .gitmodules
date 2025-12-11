@@ -4,3 +4,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = git@github.com:0xsoydev/anchor-vault.git
+[submodule "anchor-escrow-contract"]
+	path = anchor-escrow-contract
+	url = git@github.com:0xsoydev/anchor-escrow-contract.git
