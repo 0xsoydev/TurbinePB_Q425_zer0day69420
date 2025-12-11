@@ -1,3 +1,6 @@
 [submodule "spl-token-mint"]
 	path = spl-token-mint
 	url = git@github.com:0xsoydev/spl-token-mint.git
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = git@github.com:0xsoydev/anchor-vault.git
